@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Clients() {
+const Client = () => {
   return (
     <div>Clients</div>
   )
 }
 
-export default Clients
+export default Client;

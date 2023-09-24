@@ -1,6 +1,6 @@
 import React from 'react'
 
-function GetStarted() {
+const GetStarted = () => {
   return (
     <div>GetStarted</div>
   )
